@@ -46,6 +46,6 @@
 
 ## markdown？
 
-第一次接触这玩意的时候是在[洛谷](luogu.org "今天的洛谷logo依然很像女字呢")看题解。
+第一次接触这玩意的时候是在[洛谷](https://luogu.org "今天的洛谷logo依然很像女字呢")看题解。
 
 后来在[博客园](https://www.cnblogs.com/voidf)写博客，也开始在洛谷写题解，第一次运用到了md。
