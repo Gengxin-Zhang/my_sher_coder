@@ -30,4 +30,13 @@
 
 差不多到了高三，别人都在努力复习冲刺了，我却在执着地用着班级电脑学习Github相关的知识，妄图再用自己的双手打出什么成绩来。
 
-所以高三一到，我已经基本掌握了add，commit，push，fetch，pull等等基本git操作，也顺便整出来了现在还挂在我的服务器正常运行的[koriru](https://github.com/voidf/koriru)
+所以高三一到，我已经基本掌握了add，commit，push，fetch，pull等等基本git操作，也顺便整出来了现在还挂在我的服务器正常运行的为我的屑站直播账号领银瓜子的[koriru](https://github.com/voidf/koriru "您也可以看到最早的LICENSE是什么时候添加的")，那个项目的README我后来因为各种各样繁忙的事情一直拖着拖着没写完，但那就确实是我那时候的markdown水平~~很丑对吧~~。
+
+我们班级有每个周五轮换宿舍搞一次班会的习惯，高三一整年，我为了那一点点作为程序猿的骄傲，放着便利的PPT不用，独自走上了用HTML做课件的不归路。也是那个时候，自己的[个人博客](https://github.com/voidf/voidf.github.io)也开始在GH上开源。因为要在本地的环境里面跑才能带动整个网页，所以学会了在本地搭设Git仓库实现自给自足不依赖Github。
+
+高三下大约距高考50d时，我又用班级电脑摸出了当时在NGA搞的[碧蓝航线](https://bbs.nga.cn/thread.php?fid=564)萌战这么一个活动的[计票器](https://github.com/voidf/kanmoecounter)，现在看看也许它更像一个框架吧。总之那个时候开始自己用git做小项目开发已经没什么问题了。
+
+**但是本人对git的submodule和多人合作开发这块的folk，push request没有什么概念，希望在以后与各位的交流中学习吧**
+
+~~怎么写这段的时候感觉有点扎心呢~~
+
