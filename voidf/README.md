@@ -30,4 +30,4 @@
 
 差不多到了高三，别人都在努力复习冲刺了，我却在执着地用着班级电脑学习Github相关的知识，妄图再用自己的双手打出什么成绩来。
 
-所以高三一到，我已经基本掌握了add，commit，push，fetch，pull等等基本git操作，也顺便整出来了现在还挂在我的服务器正常运行的[koriru][https://github.com/voidf/koriru]
+所以高三一到，我已经基本掌握了add，commit，push，fetch，pull等等基本git操作，也顺便整出来了现在还挂在我的服务器正常运行的[koriru](https://github.com/voidf/koriru)
