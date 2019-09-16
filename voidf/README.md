@@ -79,4 +79,8 @@
 
 [![球状树](balltree.png)](https://www.wisegeek.com/what-is-a-ball-tree.htm)
 
+>v：不是塞一起的，是分开的。
+
+*面试官甲又画了一张图*
+
 
