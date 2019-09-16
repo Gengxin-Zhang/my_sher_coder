@@ -83,4 +83,4 @@
 
 *面试官甲又画了一张splay树*
 
-
+[![splay树](splay.png)](https://baike.baidu.com/item/伸展树/7003945?fr=aladdin)
