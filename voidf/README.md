@@ -79,5 +79,4 @@ v：不是什么大题，是关于球的题。
 
 ![球状树](balltree.png)
 
-
-$$ x \href{why-equal.html}{=} y^2 + 1 $$
+>>>asdasd
