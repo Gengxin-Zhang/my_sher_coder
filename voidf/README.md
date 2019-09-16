@@ -169,5 +169,24 @@
 //剧本参考
 //https://www.docin.com/p-2040439559.html
 ```
+~~我果然不会写md~~
+-----------
+-----------
+## 以后想学什么？
+
++ python的异步编程**async**
++ 反代服务器搭建
++ PHP的漏洞挖掘和填补
++ **平面设计和画画**
++ linux服务器基于数据包的各种骚用法以及如何榨干一个屑服务器的所有性能
++ SQL网页建设以及漏洞防御
++ js如何辅助页面排版
++ 后端的冗余设计，负载均衡等等的实现方式
++ 总之网页设计的各种框架都想接触一下，包括前后端
++ 复杂的打包过的js的逆向解读
 
 -----------
+很感谢您能阅读我的长篇废话至此。
+```
+6Z2e5bi45oSf6LCi56iL5bqP6YOo57uZ5oiR6L+Z5qC35LiA5Liq5bGV56S66Ieq5bex55qE5py65Lya77yM5Y2z5L2/5Lul5oiR55qE6IO95Yqb5Y+v6IO95LiN6Laz5Lul5oyk6L+b6L+ZMTXkuKrlkI3pop3jgIINCuaDs+edgOWmguaenOiQvemAieS6hueahOivneWwseWOu+mbhuS4reeyvuWKm+aJk0FDTeWSjENURuWQpz09DQrml7bluLjop4nlvpfoh6rlt7Hog73lipvkuI3lpJ/lvLrlpKfvvIzkuI3ov4flgYforr7miJHog73mm7TkvJjnp4DnmoTor53vvIzmiJHku6zov5jmnInmnLrkvJrnm7jpgYflkJfvvJ8
+```
