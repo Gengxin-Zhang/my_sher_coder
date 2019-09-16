@@ -77,6 +77,6 @@
 
 *面试官甲迅速画了一张球状树，给v看。*
 
-![球状树](./balltree.png)
+![球状树](https://github.com/voidf/my_sher_coder/blob/master/voidf/balltree.png)
 
 
