@@ -77,6 +77,6 @@
 
 *面试官甲迅速画了一张球状树，给v看。*
 
-![球状树](balltree.png)
+[![球状树](balltree.png)](https://www.wisegeek.com/what-is-a-ball-tree.htm)
 
 
