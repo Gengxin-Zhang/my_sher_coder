@@ -9,6 +9,7 @@
 * 星期天和星期一晚上把Git教程看完
 * 星期一把Markdown教程看完
 * 星期二开始边复习边看高级操作完成任务
+* 星期三之后继续学习深度学习和数据结构
 
 ---
 
@@ -32,8 +33,8 @@
 >    > mkdir learngit      #创建一个新的目录
 >    > cd learngit         #进入learngit的目录
 >    > pwd                 #获取当前的目录
->    > /Users/michael/learngit
->    >  git init            #初始化库，将其变成可以管理的仓库
+>    >   /Users/michael/learngit
+>    > git init            #初始化库，将其变成可以管理的仓库
 >    >  ```
 >    >
 >    >
@@ -90,9 +91,9 @@
 >    >
 >    >    ```git
 >    >    git remote add origin git@github.com:账户名/远程库名.git
->    >    #将本地库与github上的远程仓库关联
+>    >     #将本地库与github上的远程仓库关联
 >    >    git push -u origin master
->    >    #把当前分支master推送到远程库,第一次需要用-u参数,之后就不需要了
+>    >     #把当前分支master推送到远程库,第一次需要用-u参数,之后就不需要了
 >    >    ```
 >    >  ---
 >    > 
@@ -100,7 +101,7 @@
 >    >
 >    > ```git
 >    >   git clone git@github.com:账户名/库名.git
->    >   #将远程库克隆在本地
+>    >    #将远程库克隆在本地
 >    >```
 >    > ---
 > 
@@ -130,7 +131,7 @@
 >    >   git merge --no-ff -m"<explain>" <name>
 >    >  #用普通模式进行合并，并且会有记录和说明
 >    >   git log --graph           #查看分支合并图
->    >  git cherry-pick <commit>  #把修改复制到当前分支
+>    >   git cherry-pick <commit>  #把修改复制到当前分支
 >    > ```
 >    >    ---
 >    >    
@@ -138,7 +139,7 @@
 >    >    
 >    > ```git
 >    >    git stash                 #保存工作现场
->    >   git stash pop             #返回工作现场
+>    >    git stash pop             #返回工作现场
 >    > ```
 >    > ---
 > 
@@ -177,7 +178,7 @@
 >    >git tag <name>                    #将当前分支打上标签<name>
 >    >git tag <name> <commit id>        #将指定commit打上标签
 >    >git tag -a <name> -m"<explain>" <commit id> 
->    > #创建带说明的标签
+>    >  #创建带说明的标签
 >    >git tag                           #查看标签列表
 >    >git show <tagname>				  #查看标签的说明
 >    >git tag -d <tagname>              #删除标签
@@ -191,7 +192,7 @@
 >    >git push origin <tagname>         #推送标签到远程
 >    >git push origin --tags            #推送所有标签
 >    >git push origin :refs/tags/<tagname>
->    > #删除远程标签
+>    >   #删除远程标签
 >    >```
 >    >
 >    >---
@@ -203,8 +204,8 @@
 >    >
 >    > + 学习Git的过程还是比较顺利，虽然和C、Java、Python等   
 >    >   高级语言不太一样，但是和cmd有点类似，所以上手很快
->    >+ 掌握到Git的精髓后很快就理解了语法功能作用、并且加以实践
->    > + 在实践中过程中，push数据时报错，在CSDN上也找到了解决方法
+>    > + 掌握到Git的精髓后很快就理解了语法功能作用、并且加以实践
+>    > + 在实践中过程中，push数据时报错，在CSDN上也找到了[解决方法](https://blog.csdn.net/u012145252/article/details/80628451)
 >    >
 >    > ---
 >    >
@@ -241,9 +242,27 @@
 >    > 但是在打开的时候还是出现了格式错误   
 >    > + 做了很多次尝试和修改，还是没有解决问题
 >    > + 但是，突然发现右下角有一个源代码模式，发现了新天地
->    > + 在源代码中发现了问题：在使用
+>    > + 在源代码中发现了<font color=DeepPink>问题</font>：在使用列表时，与代码连用，   
+>    > 并没有注意缩进的空格，发生区块错误，在保存时编译器自动加上\`\`\`   
+>    > 造成代码块错误，发生错位乱码
+>    > + 之后我就在源代码模式进行修改，统一缩进，就解决了问题
+>    > + 这个问题给了我很大的<font color=DeepPink>启示</font>：不能只看表面Markdown的界面效果   
+>    > 要从源代码处来看本质，来修改格式、解决问题
+>    >
+>    > ---
+>    
+> 4. <font color=LightSkyBlue face="微软黑雅">总结</font> 
+>
+>    > ---
+>    >
+>    > + 看起来简单的Markdown语法在使用的时候要注意细节，稍不注意就会出错
+>    > + 解决问题看本质，源代码是最真实的东西，也最能看出问题之所在
+>    >
+>    > ---
 
+## <font color=DeepSkyBlue face="仿宋">Markdown展示</font>
 
+> 1. 
 
 
 
