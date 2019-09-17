@@ -260,14 +260,90 @@
 >    >
 >    > ---
 
-## <font color=DeepSkyBlue face="仿宋">Markdown展示</font>
+## <font color=DeepSkyBlue face="仿宋">Markdown展示</font>[^注]
 
-> 1. 
+> 1. <font color=LightSkyBlue face="微软黑雅">插入本地图片</font> 
+>
+>    > ---
+>    >
+>    > + 利用Git库实现本地图片网络化   [知乎](https://www.zhihu.com/question/21065229)
+>    >
+>    > ![text](https://github.com/Sakura-pc/gitskills/blob/master/3.jpg)
+>    >
+>    > + 将本地图片上传到Github自己的库里面
+>    > + 再在Markdown里直接引用就行
+>    >
+>    > ---
+>
+> 2. <font color=LightSkyBlue face="微软黑雅">修改字体</font> 
+>
+>    > ---
+>    >
+>    > + Markdown本身不支持修改字体，但是其支持HTML的字体修改
+>    > + <font face="黑体">黑体</font>
+>    > + <font face="宋体">宋体</font>
+>    > + <font color="BlueViolet">紫色</font>
+>    > + <font color="Chartreuse">荧光绿</font>
+>    >
+>    > ---
+>
+> 3. <font color=LightSkyBlue face="微软黑雅">特殊符号</font> 
+>
+>    > ---
+>    >
+>    > + &hearts;   &trade;   &harr;   &equiv;   &yen;
+>    > + [链接](https://www.jianshu.com/p/7bcf4ad609cf)
+>    >
+>    > ---
+>
+> 4. <font color=LightSkyBlue face="微软黑雅">播放音乐</font> 
+>
+>    > ---
+>    >
+>    > 命は美しい(生命的美好)——乃木坂46
+>    > 
+>    > <audio id="audio" controls=""preload="none">
+>    > <source id="mp3"
+>    >         src="http://isure.stream.qqmusic.qq.com/C400001r7rmM3WhyhA.m4a?guid=954778873&vkey=F79EA257E22C5D5803484CDDC15E556CB44D535D5305000657F2F9F5A27214161CAC16B80627717E22CA9F0922D7C3C8D771C3AA4D675BEC&uin=0&fromtag=66"
+>    > </audio>
+>    >
+>    >Daisy——Aimer
+>    >
+>    > <audio id="audio" controls=""preload="none">
+>    > <source id="mp3"
+>    >         src="http://223.111.104.154/amobile.music.tc.qq.com/C400002CEMj61FFPxu.m4a?guid=932402647&vkey=143EA7702A34C0ABA876CA203EFFDB14A8D35C2E1C5ED98855745821432D5EE46285B6712D0CAE457F84C20C8FEBA0198342927A95741736&uin=0&fromtag=66"
+>    > </audio>
+>    >
+>    > ---
+>    >
+>
+> 5. <font color=LightSkyBlue face="微软黑雅">播放视频</font> 
+>
+>    > ---
+>    >
+>    > <video id="video" controls=""preload="none"
+>    >     poster="https://i1.hdslb.com/bfs/archive/2465540b54730647d15bc542bd42ca0934a88757.jpg">
+>    >  <source id="mp4"
+>    >          src="https://sz.btfs.mail.ftn.qq.com/ftn_handler/e375088c5dcadfa264c8ee98fefb63eb302ab4b2c907a6a9651998a30464ac58d8603654bb4d389b02bf53443c158616d2a8d658f6fa962d007badbf3bb0d1fe?compressed=0&dtype=1&fname=nanase.mp4"
+>    > </video>
+>    >
+>    > + 找到在bilibili 前面加i可以转到三方下载平台，下载获取外链即可
+>    > + 找到视频和上面的音频链接费了我好大功夫
+>    > + 理论上可以下载播放所有b站视频
+>    >
+>    > ---
 
+## <font color=DeepSkyBlue face="仿宋">进入程序部想学的内容</font>
 
+> 1. <font color=LightSkyBlue face="微软黑雅">前段技术:HTML、CSS、JavaScript</font> 
+> 2. <font color=LightSkyBlue face="微软黑雅">Python web</font> 
+> 3. <font color=LightSkyBlue face="微软黑雅">Java 框架</font> 
+
+---
 
 
 
 [^who?]:不告诉你
 [^.]:其实是因为英语8太行，又懒得翻译
 [^*]:其实就是强迫症
+[^注]:之前的段落已经使用了所有教程中的Markdown操作(链接、图片、代码、模块等)，所以这一部分只展示教程中没有的操作
