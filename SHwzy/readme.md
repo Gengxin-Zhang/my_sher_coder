@@ -17,7 +17,7 @@ Please answer：
 :cry::cry::cry::cry::cry::cry::cry::cry::cry::cry::cry::cry::cry::cry::cry::cry::cry::cry::cry::cry::cry::cry::cry::cry::cry::cry::cry::cry::cry::cry::cry::cry:
 
 <center>不行啊你给我回去重新选啊！</center><br>
-**Please  choose （这不会是你最后一次来到这里:cry:）**
+Please  choose （这不会是你最后一次来到这里:cry:）
 
 1：[好](#before-reading)
 
@@ -69,8 +69,8 @@ Please answer：
     - ~~我真是文件版本管理能力极差才会学习辣么多堆语言来用这玩意~~
     - ~~而我费这么大力气去学习它就是为了使用github，git实属工具人~~
     - 超级强大的文件版本管理software！(迫真)(以上纯属玩笑)
-2. [git官网](#https://git-scm.com)
-3. [git教程](#https://www.runoob.com/git/git-tutorial.html)
+2. [git官网](https://git-scm.com)
+3. [git教程](https://www.runoob.com/git/git-tutorial.html)
 
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 
@@ -97,8 +97,8 @@ Please answer：
   - ~~羸弱语言还要靠工具拓展功能~~
   - ~~英文翻译是“降价”真是low到爆炸~~
   - 使普通文字具有格式的魔法语言！(迫真)（以上纯属玩笑）
-2. [关于markdown](#https://baike.baidu.com/item/markdown/3245829?fr=aladdin)
-3. [markdown语法简介](#https://www.jianshu.com/p/191d1e21f7ed)
+2. [关于markdown](https://baike.baidu.com/item/markdown/3245829?fr=aladdin)
+3. [markdown语法简介](https://www.jianshu.com/p/191d1e21f7ed)
 
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 
