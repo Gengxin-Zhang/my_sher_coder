@@ -22,10 +22,10 @@
 
 **学习经历**
 
-	- 利用教程对Git的使用有了一些基本的了解，明白了其工作区、暂存区和远程库的作用，能够利用add和commit进行文件从工作区到暂存区再到版本库的操作。
-	- 了解并能够使用时空机穿梭（过去或未来版本之间的转换）。
-	- 学会分支处理，简单使用命令进行分支的建立、修改、合并与删除等。
-	- 学会使用文件名颜色的转换、GitHub的使用、构建别名等零碎功能。
+> - 利用教程对Git的使用有了一些基本的了解，明白了其工作区、暂存区和远程库的作用，能够利用add和commit进行文件从工作区到暂存区再到版本库的操作。
+> - 了解并能够使用时空机穿梭（过去或未来版本之间的转换）。
+> - 学会分支处理，简单使用命令进行分支的建立、修改、合并与删除等。
+> - 学会使用文件名颜色的转换、GitHub的使用、构建别名等零碎功能。
 
 ***
 
@@ -99,13 +99,15 @@ int main()
 
 
 
-<img src="http://static.runoob.com/images/runoob-logo.png" alt="RUNOOB图标"  />
+<img src="http://static.runoob.com/images/runoob-logo.png" alt="图标" style="zoom:150%;" />
 
 
 
  |使用 <kbd>Ctrl</kbd>+<kbd>Alt</kbd>+<kbd>Del</kbd> 重启电脑
 
-<div align=center><iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=330 height=300 src="https://music.163.com/song?id=117879"></iframe></div>
+
+
+<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=330 height=90 src="//music.163.com/song/media/outer/url?id=476592630.mp3"> </iframe>
 
 ***
 
