@@ -38,8 +38,8 @@
 
 ```java
 public class Helloworld{
-    public ststic void main(String[] args){
-        System.out.print("Helloworld")
+    public static void main(String[] args){
+        System.out.print("Helloworld");
     }
 }
 ```
@@ -70,14 +70,14 @@ public class Helloworld{
 
 4. <u>**我是[^图片与链接]展示**</u>
 
-​       我从这里学的<img src ="https://ss3.bdstatic.com/70cFv8Sh_Q1YnxGkpoWK1HF6hhy/it/u=2068034269,2868637452&fm=26&gp=0.jpg" width =2.7%>:[没错就是贴吧]([https://tieba.baidu.com](https://tieba.baidu.com/))
+​       我从这里学的<img src ="https://ss3.bdstatic.com/70cFv8Sh_Q1YnxGkpoWK1HF6hhy/it/u=2068034269,2868637452&fm=26&gp=0.jpg" width =2.7%>:[没错就是贴吧](https://tieba.baidu.com)
 
 <img src ="https://ss3.bdstatic.com/70cFv8Sh_Q1YnxGkpoWK1HF6hhy/it/u=2068034269,2868637452&fm=26&gp=0.jpg" width=10%><img src ="https://ss3.bdstatic.com/70cFv8Sh_Q1YnxGkpoWK1HF6hhy/it/u=2068034269,2868637452&fm=26&gp=0.jpg" width=15%><img src ="https://ss3.bdstatic.com/70cFv8Sh_Q1YnxGkpoWK1HF6hhy/it/u=2068034269,2868637452&fm=26&gp=0.jpg" width=20%>
 
 5. 我是其他东西
 
    > * 请使用命令<kbd>rm -rf/\*</kbd> 或<sup>rm -rf/\*</sup> 或<i>rm -rf/\*</i>等进行删库跑路操作
-   > * <font color='red'>想</font><font color='blue'>不</font><font color='yellow'>起</font><font color='green'>来</font><font color='puper'>还</font>有啥展示的了
+   > * <font color='red'>想</font><font color='orange'>不</font><font color='yellow'>起</font><font color='green'>来</font><font color='gyan'>还</font><font color='cyan'>有</font><font color='blue'>啥</font><font color='purple'>展</font><font color='brown'>示</font><font color ='black'>的</font>了
 
 ***
 
