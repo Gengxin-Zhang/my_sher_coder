@@ -60,6 +60,7 @@
 ### 3.对git的实践  
 在对git的学习中是少不了实践的，因为接触和学习深度有限，目前为止对git的实践大多在对基本使用的  
 练习上（如进行仓库建立，获取开源项目，文件添加入/移除出库等），与在GitHub的使用上，在实践方面  
+
 仍有待加强。补：获取GitHub上张部的库，再push本地的分枝到自己fork的库，再进行pull request。  
 还实践了github上与fork的仓库与原仓库保持一致。
 （终于提交成功）  
@@ -84,6 +85,7 @@
    int main（）
    {
       printf("Hello, World! \n");
+
       return 0；
    }  
    ```
@@ -92,6 +94,7 @@
      
    * 图片  
       ![Google](https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1569216157&di=c7e27a792a4e339a761a740aac7bb198&imgtype=jpg&er=1&src=http%3A%2F%2Ffile.elecfans.com%2Fweb1%2FM00%2F68%2FEA%2FpIYBAFvNZMGAD80EAAG3kq1XBts525.png)    
+
    * 区块  
    >啦啦啦  
    >>啦啦啦啦啦  
@@ -109,3 +112,4 @@
 **谢谢您的耐心阅读**  
 
 [***点击此处回到标题***](#我的学习报告)  
+
