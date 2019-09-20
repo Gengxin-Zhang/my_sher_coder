@@ -1,0 +1,139 @@
+二面顺利
+
+# 这是二面作业
+
+***
+
+
+
+## one本周学习计划
+
+* *九月十五日完成注册以及网上基础教程*
+* *九月十六日学习git*
+
+* *九月十七日学习markdown*
+* *九月十八日完成markdown学习，并练习掌握*
+*  *九月十九日完成git学习，并练习掌握*
+* *九月二十日写二面作业*
+* *九月二十一日修改并提交二面作业*
+* 至于军训校规校纪什么的按要求来[^learn]
+
+***
+
+
+
+## git学习经历
+
+>先学了基础的操作，问题不大[^2]
+>
+>> 后来该发作业了，~~就不快乐了~~
+>>
+>> > git疯狂报错，因为太晚了就先睡了
+>> >
+>> > 准备第二天再战。
+>>
+>> 顺便反思一下操作的问题
+>
+>
+
+个人感觉：***语言不通真的很烦***但学了新东西还是很高兴的。**我爱git**
+
+***
+
+
+
+## markdown学习经历
+
+### 这是一个表格
+
+| 指令                | 反应           |
+| ------------------- | -------------- |
+| <u>我要进程序部</u> | <u>welcome</u> |
+
+1.第一项：
+
+* markdown学习起来相对轻松
+
+              *  指令很明确[^3]
+
+2. 第二项：
+       - 这是一个二次函数`printf(F（x）=x^2)`
+       - 这是我的邮箱<https://mail.qq.com/cgi-bin/frame_html?sid=bsfCbpjVBju-w0sW&r=d1652b1aced0ae2d33f877b2922ca104>
+       - 这是谷歌[Google][1]
+       - 这是小团子<img src="E:\-38711f178d9b1dfc.png" width="50%">
+       - 这是小小团子<img src="E:\-38711f178d9b1dfc.png" width="10%">
+       - 这是大团子<img src="E:\-38711f178d9b1dfc.png" width="100%">
+
+
+
+3. 第三项：
+
+      - ```python
+        
+        def sum():
+        
+            sum = 0
+        
+            for n in range(1, 101):
+        
+                sum = sum + n
+        
+            return sum
+        
+         
+        
+        print('一到一百相加的和是:',sum())
+        ```
+
+      - 忘得差不多了，搬运一个占个空
+
+           - ```素数算法
+              lnput：   integer   n>1
+                 1.if (n is of the form   a^b, b>1)output COMPOSITE;
+                 2.R=2
+                 3.while (r<n) ｛
+                 4. if(ged(n,r)≠1) output COMPOSITE;
+                 5. if(r is prime)
+                 6.        let   q   be the largest prime factor of r-1
+                 7.        if(q≥4^r/2 logn)and (n(r-1)/q≠1(mod r))
+                 8.       break;
+                 9. r←r+1;
+                 10. ｝
+                 11.for   a=1 to 2r^1/2 logn
+                 12.   if ((x-a)^n≠(x^n-a)(mod x^r-1,n))output COMPOSITE;
+                 13.output PRIME;
+             ```
+
+            - 补充未答完的一面问题[^4]
+
+---
+
+
+
+##  想学的
+
+* 第一
+
+  >想学Python
+
+* 第二
+
+  > 根据需求在学习吧
+
+# 最后
+
+***无论怎样，七天的学习经历很愉快，很充实。二面任务很有意义。***
+
+
+
+
+
+
+
+[^learn]:有剩余时间就学git
+[^2]:有问题可以百度
+[^3]:除非忘了手滑不然不会出错
+
+[1]:http://www.google.com/
+
+[^4]:虽然自己看不懂
