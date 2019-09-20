@@ -6,7 +6,7 @@ luohaoren的升华工作室程序部二面作业
 >    ~~3.抽空了解学习网站建设~~
 ****************
 #### GIT LEARNING
-> **git的学习过程**
+> **git的学习过程**  
 > 1.先查git读音  
 > 2.百度了git相关信息，对git有个大概的概念了解！（还是被专业名词弄晕了![哭辽](http://ww2.sinaimg.cn/bmiddle/9150e4e5ly1g1iu59ns3oj201u01mmwx.jpg)  
 > 3.在[^廖雪峰教程]上学习git  
