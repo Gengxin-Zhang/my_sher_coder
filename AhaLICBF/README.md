@@ -39,9 +39,9 @@
   - *没`add`直接`commit`。*
   
 - 被评论区误导
-    
+  
 - *好不容易理解了教程，结果教程下有评论说教程是错误的，差点怀疑人生，查阅资料后认为教程还是对的。*
-    
+  
 - 不断尝试
   - 更改了Git Bash的起始位置[^p.s.]。
   - 尽可能的模拟教程中出现的情景，自己玩"角色扮演"。
@@ -82,9 +82,7 @@
 
 ​	我深知个人能力有限，请原谅并指出本篇中出现的任何错误，我定会加以改正并不断进取。我非常希望加入中南大学升华工作室程序部以尽自己的绵薄之力，融入中南大学，实现人生理想。感谢您读到这里，期待贵部的回复。
 
-![嘿嘿](C:\Users\AhaLICBF\Desktop\1568950681307.jpeg)
-
-
+<img src="https://gtb.baidu.com/HttpService/get?p=dHlwZT1pbWFnZS9qcGVnJm49dmlzJnQ9cHJvZHVjdF9zaW1pJmM9aWc6aWcmcj0zMzYwNDkyOTk0LDE3MTI1Mjc3MTU=" alt="img" style="zoom: 200%;" />
 
 [^其实吧]:我没能一次性记忆git 的指令和Markdown语法的格式，学习过程中会反复翻阅查找书写及格式，学习情况仅代表我对照着教程进行了相应的实践
 [^p.s.]:个人不喜欢往C盘放工作、学习、游戏文件，怕把它占满了系统变慢,哈哈
