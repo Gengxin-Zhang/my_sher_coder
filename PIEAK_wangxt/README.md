@@ -50,7 +50,8 @@
 
 &emsp;&emsp;1. 因为typora官网页面太好看（...)所以提前在刷手机的时候了解了markdown的概念和用途，目前的理解是由语法和相关编辑器配套组成。  
 
-![1568991202698](C:\Users\杙鸱\AppData\Roaming\Typora\typora-user-images\1568991202698.png)  
+
+![Typora官网](https://github.com/PIEAKyichi/my_sher_coder/blob/master/PIEAK_wangxt/Typora官网/Typora官网.png)  
 
 <center><i><small>是真的很好看</small></i></center>  
 &emsp;&emsp;2.概览教程发现较为易懂，于是采用学习完全部基本语法后再编写文件的方法，完成初稿，体验边写作边排版的快落...  
