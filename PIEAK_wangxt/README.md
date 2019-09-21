@@ -52,7 +52,7 @@
 
 ![1568991202698](C:\Users\杙鸱\AppData\Roaming\Typora\typora-user-images\1568991202698.png)  
 
-<center><i><small>是真的很好看</small></i></center>
+<center><i><small>是真的很好看</small></i></center>  
 &emsp;&emsp;2.概览教程发现较为易懂，于是采用学习完全部基本语法后再编写文件的方法，完成初稿，体验边写作边排版的快落...  
 &emsp;&emsp;3.搜索时看到可用于制作微信推送，浏览了一些作品后学习更多操作，完善了该文件内容。  
 
