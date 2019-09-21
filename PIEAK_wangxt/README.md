@@ -3,13 +3,11 @@
 
 ## 目录
 
-- [ONE 9.16-9.21日学习计划](one-9.16-9.21日学习计划)  
+- [ONE 9.16-9.21日学习计划](#one-9.16-9.21日学习计划)  
+- [TWO git学习记录](#two-git学习记录)  
+- [THREE Markdown学习记录](#three-markdown学习记录)  
+- [FOUR 进入程序部后想学习的内容](#four-进入程序部后想学习的内容)
 
-- [TWO git学习记录](two-git学习记录)  
-
-- [THREE Markdown学习记录](three-markdown学习记录)  
-
-- [FOUR 进入程序部后想学习的内容](four-进入程序部后想学习的内容)
 ****
 ## ONE 9.16-9.21日学习计划 
 
