@@ -11,13 +11,9 @@
 ### 学习*git*的经历：
 
 + 为啥我看别人发的都是笔记..我感觉学长学姐也不用这些 我就说说我的真实感受吧  
-
 + 我不会告诉你 我整这几个简单的add commit push整了三天..我哭了    
-
 + 鬼知道我这破电脑为什么一直在报错 对于我这个只学过C和Python的萌新非常不友好! 
-
 + 不过熬完了这几天 学习便是一帆风顺啦 早就听说过GitHub的大名 真的开始了解后 发现真的好用！！  
-
 + 吹爆Git和GitHub！！  
 
 ------
@@ -33,20 +29,38 @@
 + 简单展示下学习的Markdown吧：  
 
 >  ```C
-> 最经典的hello world：
-> #include <stdio.h>
-> int main()
-> {
-> printf( "Hello,World!\n" );
-> return 0;
-> }
-> ```
-> 下面是链接：  
->[GitHub](https://www.github.com)
-> 
-> 
+>  最经典的hello world：
+>  #include <stdio.h>
+>  int main()
+>  {
+>  printf( "Hello,World!\n" );
+>  return 0;
+>  }
+>  ```
+>  下面是链接：  
+>  [GitHub](https://www.github.com)
 >
-> -----------------------
+>  > 简  
+>  >
+>  > > > 单  
+>  > > >
+>  > > > > > > 展  
+>  > > > > > >
+>  > > > > > > > > > > 示  
+>  > > > > > > > > > >
+>  > > > > > > > > > > 学习Markdown的地方：![RUNOOB 图标](http://static.runoob.com/images/runoob-logo.png "RUNOOB")
+>
+>  ```
+>  表格如下：
+>  | 1 | 2 | 3 |
+>  | :-| -: | :-: |
+>  | 4 | 5 | 6 |
+>  | 7 | 8 | 9 |
+>  ```
+>
+>  
+>
+>  -----------------------
 
 ### 进入程序部后想学习的内容：
 
