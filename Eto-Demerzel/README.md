@@ -17,7 +17,8 @@
     4. 廖雪峰git教程：[廖雪峰git教程](https://www.liaoxuefeng.com/wiki/896043488029600)  
     5. 百度：真好用  
    感觉自己看git官网就是在做阅读理解。
-   现在看什么都像在看git：![现在看什么都像在看git](https://h5.qzone.qq.com/mqzone/profile?starttime=156906940441&hostuin=3538536443#slideView=true)
-##成果展示：
- &emsp;以上这段文字为我的markdown展示。  
-##进入程序部后想学的内容：希望可以学到许多新东西。  
+   现在看什么都像在看git：![现在看什么都像在看git](https://h5.qzone.qq.com/mqzone/profile?starttime=156906940441&hostuin=3538536443#slideView=true)  
+## 成果展示：  
+ &emsp;以上这段文字为我的markdown展示。    
+## 进入程序部后想学的内容：  
+希望可以学到许多新东西。   
