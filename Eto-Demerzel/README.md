@@ -1,4 +1,4 @@
-#Eto Demerzel的二面作业
+#Eto Demerzel的二面作业  
 ##本周的学习计划（不如说是边学边计划）：
   - **拿到任务的时候**
   &emsp;由于对于git、GitHub和markdown一窍不通，所以首先想浏览一下介绍和教程，了解git、github和markdown是什么，应该学会什么，要怎样完成作业。
